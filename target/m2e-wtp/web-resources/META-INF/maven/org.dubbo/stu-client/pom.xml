@@ -98,7 +98,7 @@
 	        </configuration>
 	    </plugin>
 	 	
-	 	<!-- 给maven项目 内置一个tomcat，之后 可以直接运行 -->
+	 	<!-- 给maven项目内置一个tomcat，之后 可以直接运行 -->
 	    <plugin>
 	    <groupId>org.apache.tomcat.maven</groupId>
 	    <artifactId>tomcat7-maven-plugin</artifactId>
